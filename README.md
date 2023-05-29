@@ -9,6 +9,8 @@ The features of this app are:
 
 3- You can delete your workout using the DELETE API
 
+The frontend react App uses the useContext hook to synchronize the local states with the database.
+
 
 To run the app, clone it into your system
 
